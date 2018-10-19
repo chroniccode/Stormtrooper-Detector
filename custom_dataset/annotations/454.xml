@@ -1,0 +1,22 @@
+<annotation>
+  <folder>storm troopers png</folder>
+  <filename>454.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1280</width>
+    <height>1920</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>trooper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>259</xmin>
+      <ymin>59</ymin>
+      <xmax>924</xmax>
+      <ymax>1826</ymax>
+    </bndbox>
+  </object>
+</annotation>

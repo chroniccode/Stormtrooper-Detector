@@ -1,0 +1,46 @@
+<annotation>
+  <folder>storm troopers png</folder>
+  <filename>149.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>970</width>
+    <height>545</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>trooper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>333</xmin>
+      <ymin>13</ymin>
+      <xmax>523</xmax>
+      <ymax>524</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>trooper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>129</xmin>
+      <ymin>101</ymin>
+      <xmax>337</xmax>
+      <ymax>533</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>trooper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>552</xmin>
+      <ymin>164</ymin>
+      <xmax>748</xmax>
+      <ymax>544</ymax>
+    </bndbox>
+  </object>
+</annotation>
